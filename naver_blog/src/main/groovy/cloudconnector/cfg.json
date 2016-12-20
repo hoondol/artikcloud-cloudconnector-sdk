@@ -1,0 +1,13 @@
+{
+  "authorizationUrl":"https://nid.naver.com/oauth2.0/authorize",
+  "accessTokenUrl":"https://nid.naver.com/oauth2.0/token",
+  "clientId":"uP3Gy4wLX6PaFgBjm9Dx",
+  "clientSecret":"lPacZNgxIw",
+  "authType" : "OAuth2",
+  "statusAcceptNotification":200,
+  "accessTokenMethod": "post",
+  "scope": ["publish_actions"],
+  "parameters": {
+    "endpoint" : "http://127.0.0.1:9080/"
+  }
+}

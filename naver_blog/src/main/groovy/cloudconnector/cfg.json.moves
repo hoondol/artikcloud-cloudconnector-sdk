@@ -1,0 +1,14 @@
+{
+  "authorizationUrl":"https://api.moves-app.com/oauth/v1/authorize",
+  "accessTokenUrl":"https://api.moves-app.com/oauth/v1/access_token",
+  "clientId":"9lF3KwDAZg0ejlIe9XHPhei1oSl3BzoZ",
+  "clientSecret":"wDp1s9Rzxe3P384vULtaw7YV1498Q8NNQ1J98f9k3npg6192IFrB9zy28O9STb3K",
+  "authType" : "OAuth2",
+  "statusAcceptNotification":200,
+  "scope":["default","activity","location"],
+  "accessTokenMethod": "post",
+  "parameters": {
+    "endpoint" : "http://127.0.0.1:9080/0",
+    "external_id" : "9lF3KwDAZg0ejlIe9XHPhei1oSl3BzoZ"
+  }
+}
